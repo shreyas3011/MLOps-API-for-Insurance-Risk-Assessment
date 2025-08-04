@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/shreyas/Desktop/projects/MLOps API for Insurance Risk Assessment project/myenv/bin/python3" "$0" "$@"
+'''exec' "/home/shreyas/Desktop/projects/MLOps API for Insurance Risk Assessment project (copy)/myenv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
